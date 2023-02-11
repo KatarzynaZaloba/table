@@ -5,7 +5,7 @@
 }
 
 .table__caption {
-    caption-side: bottom;
+    caption-side: top;
     margin: 10px;
     font-weight: bold;
 }
@@ -15,7 +15,7 @@
 }
 
 .table__row:hover {
-    background-color: #dddddd;
+    background-color: #cfeedb;
 }
 
 .table__cell {
